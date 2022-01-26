@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "vgeniselli",
+    "password": "01050900vSg",
+    "database": "react_crud",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "api-crud-node-js",
+    "password": "vB20unjLI7I229Dx",
+    "database": "react_crud",
+    "host": "35.237.189.148",
+    "dialect": "mysql"
+  }
+}
